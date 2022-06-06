@@ -1,0 +1,10 @@
+C:\Users\Eagha\Desktop\CodeLessons\P227\18. 06-06-2022\06062022\StoreClasses\bin\Debug\netcoreapp3.1\StoreClasses.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P227\18. 06-06-2022\06062022\StoreClasses\bin\Debug\netcoreapp3.1\StoreClasses.dll
+C:\Users\Eagha\Desktop\CodeLessons\P227\18. 06-06-2022\06062022\StoreClasses\bin\Debug\netcoreapp3.1\StoreClasses.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P227\18. 06-06-2022\06062022\StoreClasses\obj\Debug\netcoreapp3.1\StoreClasses.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\P227\18. 06-06-2022\06062022\StoreClasses\obj\Debug\netcoreapp3.1\StoreClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P227\18. 06-06-2022\06062022\StoreClasses\obj\Debug\netcoreapp3.1\StoreClasses.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P227\18. 06-06-2022\06062022\StoreClasses\obj\Debug\netcoreapp3.1\StoreClasses.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P227\18. 06-06-2022\06062022\StoreClasses\obj\Debug\netcoreapp3.1\StoreClasses.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P227\18. 06-06-2022\06062022\StoreClasses\obj\Debug\netcoreapp3.1\StoreClasses.dll
+C:\Users\Eagha\Desktop\CodeLessons\P227\18. 06-06-2022\06062022\StoreClasses\obj\Debug\netcoreapp3.1\StoreClasses.pdb
